@@ -1,6 +1,8 @@
 ## Featured work
 
-[R-Liv](https://github.com/3top1a/r-liv) - Simple and fast image viewer
+[R-Liv](https://github.com/3top1a/r-liv) - Simple and fast image viewer \
+[SiSWG](https://github.com/3top1a/SiSWG) - Static Web Generator from [Markdown](https://www.markdownguide.org/) used to make [this website](https://github.com/3top1a/3top1a.github.io)\
+[Psychic Trial](https://github.com/3top1a/Psych-ward) - My first proper attempt at a gamejam \
 
 ## I like it suckless
 
