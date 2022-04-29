@@ -1,3 +1,3 @@
 ## Art
 
-This is a simple galery of my art. Enjoy!
+This is a simple gallery of my art. Enjoy!
