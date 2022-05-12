@@ -3,6 +3,10 @@
 [R-Liv](https://github.com/3top1a/r-liv) - Simple and fast image viewer \
 [SiSWG](https://github.com/3top1a/SiSWG) - Static Web Generator from [Markdown](https://www.markdownguide.org/) used to make [this website](https://github.com/3top1a/3top1a.github.io)\
 [Psychic Trial](https://github.com/3top1a/Psych-ward) - My first proper attempt at a game jam
+[Xniffer](https://github.com/3top1a/xniffer) - A simple EXIF sniffer written in Rust
+[AveryOS](https://github.com/3top1a/AveryOS) - My personal OS for Avery situation, and a starting point for yours!
+
+## Proud Arch user
 
 ## I like it suckless
 
