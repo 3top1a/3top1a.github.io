@@ -1,4 +1,4 @@
-index.html
-contact.html
-404.html
-art.html
+https://3top1a.github.io/index.html
+https://3top1a.github.io/contact.html
+https://3top1a.github.io/404.html
+https://3top1a.github.io/art.html
