@@ -1,6 +1,6 @@
 # Make
 cd ./SiSWG/
-make clean
+#make clean
 make
 cd ../
 
