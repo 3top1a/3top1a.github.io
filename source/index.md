@@ -6,8 +6,6 @@
 [Xniffer](https://github.com/3top1a/xniffer) - A simple EXIF sniffer written in Rust
 [AveryOS](https://github.com/3top1a/AveryOS) - My personal OS for Avery situation, and a starting point for yours!
 
-## Proud Arch user
-
 ## I like it suckless
 
 This website is explicitly built to be as simple and fast as possible.
